@@ -1,13 +1,19 @@
 # Bharatintern_irisclassification
-Iris Dataset Analysis
+## Iris Dataset Analysis
+_____________
 This repository contains Python code for analyzing the famous Iris dataset using pandas, numpy, matplotlib, and seaborn libraries. The Iris dataset is a classic dataset in the field of machine learning and is often used for introductory data analysis and classification tasks.
 
-Dataset Description
-The Iris dataset consists of 150 samples of iris flowers, each with four features: Sepal Length, Sepal Width, Petal Length, and Petal Width. The dataset is labeled with three different species of iris flowers: Iris-setosa, Iris-versicolor, and Iris-virginica.
-
+## Dataset Description
+____________________
+The Iris dataset consists of 150 samples of iris flowers, each with four features: 
+###### Sepal Length
+###### Sepal Width
+###### Petal Length
+###### Petal Width. 
+The dataset is labeled with three different species of iris flowers: Iris-setosa, Iris-versicolor, and Iris-virginica.
 Number of Instances: 150
 Number of Attributes: 4 numeric, predictive attributes
-Attribute Information:
+### Attribute Information:
 Sepal Length (in cm)
 Sepal Width (in cm)
 Petal Length (in cm)
